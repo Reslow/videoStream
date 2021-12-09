@@ -1,0 +1,14 @@
+{
+  "name": "http-video-stream",
+  "version": "1.0.0",
+  "description": "video stream ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fanny R",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
